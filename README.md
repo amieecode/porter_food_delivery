@@ -31,3 +31,4 @@ Tools used: Excel
 
 ## Dashboard view
 ![Dashboard](https://github.com/amieecode/porter_food_delivery/blob/main/Images/Porter%20dashboard.png)
+![Dahboard](https://github.com/amieecode/porter_food_delivery/blob/main/Images/Porter%20Dashboard%202.png)
